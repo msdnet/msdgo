@@ -1,0 +1,2 @@
+# msdgo
+same share lib
